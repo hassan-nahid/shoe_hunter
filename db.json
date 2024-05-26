@@ -1,0 +1,84 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "title": "Air Max 270",
+      "brand": "Nike",
+      "price": "160",
+      "description": "The Nike Air Max 270 features a large Air unit in the heel for a soft, responsive ride.",
+      "image_url": "https://img.freepik.com/free-psd/running-shoes-sneakers-transparent-background_84443-1610.jpg?t=st=1716484856~exp=1716488456~hmac=a23096e6a03c6deafb6d2bb7f2b10dca871cfd964bfbc3ba777f0bcde213eff5&w=740"
+    },
+    {
+      "id": "2",
+      "title": "Ultraboost 21",
+      "brand": "Adidas",
+      "price": 180,
+      "description": "The Adidas Ultraboost 21 offers incredible energy return and a snug, sock-like fit.",
+      "image_url": "https://img.freepik.com/free-psd/running-shoes-sneakers-transparent-background_84443-1690.jpg?t=st=1716484892~exp=1716488492~hmac=0a7832ae3fe54713197ad5cf7cea8399a7e0331425bf6d3269a4c8efc259d403&w=740"
+    },
+    {
+      "id": "3",
+      "title": "Classic Leather",
+      "brand": "Reebok",
+      "price": 75,
+      "description": "Reebok Classic Leather shoes offer a timeless style with superior comfort.",
+      "image_url": "https://img.freepik.com/free-psd/running-shoes-sneakers-transparent-background_84443-1606.jpg?t=st=1716484920~exp=1716488520~hmac=1da4b63d044e65ceb496eb35263d2b5ae133df8c03f9a677a6803c9668db2795&w=740"
+    },
+    {
+      "id": "4",
+      "title": "Gel-Kayano 27",
+      "brand": "ASICS",
+      "price": 160,
+      "description": "ASICS Gel-Kayano 27 provides excellent stability and cushioning for long-distance running.",
+      "image_url": "https://cdn.media.amplience.net/i/scvl/119670_255857_1?fmt=auto&w=640"
+    },
+    {
+      "id": "5",
+      "title": "Chuck Taylor All Star",
+      "brand": "Converse",
+      "price": "155",
+      "description": "Converse Chuck Taylor All Star is an iconic sneaker with a classic design.",
+      "image_url": "https://cdn.media.amplience.net/i/scvl/149636_333584_1?fmt=auto&w=640"
+    },
+    {
+      "id": "6",
+      "title": "Old Skool",
+      "brand": "Vans",
+      "price": 60,
+      "description": "Vans Old Skool is a classic skate shoe known for its durability and style.",
+      "image_url": "https://cdn.media.amplience.net/i/scvl/127483_271598_1?fmt=auto&w=640"
+    },
+    {
+      "id": "7",
+      "title": "Fresh Foam 1080v11",
+      "brand": "New Balance",
+      "price": 150,
+      "description": "New Balance Fresh Foam 1080v11 offers plush comfort and a supportive ride.",
+      "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "8",
+      "title": "Gel-Nimbus 23",
+      "brand": "ASICS",
+      "price": 150,
+      "description": "ASICS Gel-Nimbus 23 is designed for neutral runners seeking a comfortable ride.",
+      "image_url": "https://cdn.media.amplience.net/i/scvl/151377_326702_1?fmt=auto&w=640"
+    },
+    {
+      "id": "9",
+      "title": "Pegasus 37",
+      "brand": "Nike",
+      "price": 120,
+      "description": "Nike Pegasus 37 provides responsive cushioning and a secure fit for daily training.",
+      "image_url": "https://cdn.media.amplience.net/i/scvl/155812_343964_1?fmt=auto&w=640"
+    },
+    {
+      "id": "10",
+      "title": "Wave Rider 24",
+      "brand": "Mizuno",
+      "price": 130,
+      "description": "Mizuno Wave Rider 24 offers smooth transitions and responsive cushioning.",
+      "image_url": "https://cdn.media.amplience.net/i/scvl/157190_342307_1?fmt=auto&w=640"
+    }
+  ]
+}
